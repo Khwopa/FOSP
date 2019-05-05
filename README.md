@@ -16,9 +16,9 @@ FOSP **Assignments**
 - Assignment#5
 
 FOSP **Labsheets**
-- Lab Instructions
-- Cover Page of Lab Report
-- Labsheet#1
+- [Lab Instructions](https://github.com/Khwopa/FOSP/blob/master/FOSP_Labsheets/01_Lab_Instructions.pdf)
+- [Cover Page of Lab Report](https://github.com/Khwopa/FOSP/blob/master/FOSP_Labsheets/01_Cover_Page_of_Lab_Report.pdf)
+- [Labsheet#1](https://github.com/Khwopa/FOSP/blob/master/FOSP_Labsheets/Labsheet_1.pdf)
 - Labsheet#2
 - Labsheet#3
 - Labsheet#4
