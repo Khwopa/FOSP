@@ -46,7 +46,7 @@ FOSP **Projects**
 
 **Miscellaneous**
 - [FOSP Syllabus](https://github.com/Khwopa/FOSP/blob/master/FOSP_Syllabus.pdf)
-- [Website Development and Management Directive for Government Agenc](https://github.com/Khwopa/FOSP/blob/master/Website_Development_and_Management_Directive_for_Government_Agency.pdf)
+- [Website Development and Management Directive for Government Agency](https://github.com/Khwopa/FOSP/blob/master/Website_Development_and_Management_Directive_for_Government_Agency.pdf)
 - FOSP Books
 - FOSP Question Bank
 - First Assessment Result
