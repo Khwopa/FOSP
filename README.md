@@ -38,6 +38,12 @@ FOSP **Projects**
 - [Presentation Sample](https://drive.google.com/file/d/1aMDTYm-qgx-PZSj-jidrMokG2iQyBhFH/view?usp=sharing)
 - [Project Report Format](https://drive.google.com/file/d/1EdgNBNvSogAdGpSETENOCaqPf_zmEEuv/view?usp=sharing)
 
+**Online Web References**
+- [HTML](https://www.w3schools.com/html/html_intro.asp)
+- [CSS](https://www.w3schools.com/css/css_intro.asp)
+- [JavaScript](https://www.w3schools.com/js/js_intro.asp)
+- [PHP](https://www.tutorialspoint.com/php/php_introduction.htm)
+
 **Miscellaneous**
 - [FOSP Syllabus](https://github.com/Khwopa/FOSP/blob/master/FOSP_Syllabus.pdf)
 - FOSP Books
