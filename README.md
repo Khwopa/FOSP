@@ -6,10 +6,10 @@ Free and Open Source Programming (FOSP)
  ![Version](https://img.shields.io/badge/version-1.0-blue.svg)
 
 FOSP **Lecturer Slides**
-- Chapter 0: FOSP Orientation
+- [Chapter 0: FOSP Orientation](https://github.com/Khwopa/FOSP/blob/master/Ch0_FOSP_Orientation.pdf)
 
 FOSP **Assignments**
-- Assignment#1
+- [Assignment#1](https://github.com/Khwopa/FOSP/blob/master/FOSP_Assignments/Assignment_1.pdf)
 - Assignment#2
 - Assignment#3
 - Assignment#4
@@ -46,6 +46,7 @@ FOSP **Projects**
 
 **Miscellaneous**
 - [FOSP Syllabus](https://github.com/Khwopa/FOSP/blob/master/FOSP_Syllabus.pdf)
+- [Website Development and Management Directive for Government Agenc]()
 - FOSP Books
 - FOSP Question Bank
 - First Assessment Result
