@@ -48,7 +48,7 @@ FOSP **Projects**
 - [FOSP Syllabus](https://github.com/Khwopa/FOSP/blob/master/FOSP_Syllabus.pdf)
 - [Website Development and Management Directive for Government Agency](https://github.com/Khwopa/FOSP/blob/master/Website_Development_and_Management_Directive_for_Government_Agency.pdf)
 - FOSP Books
-- FOSP Question Bank
+- [FOSP Question Bank](https://github.com/Khwopa/FOSP/tree/master/FOSP_Questions)
 - First Assessment Result
 - Final Assessment Result
 - Final Internal Marks of FOSP
