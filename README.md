@@ -48,6 +48,7 @@ FOSP **Projects**
 - [FOSP Syllabus](https://github.com/Khwopa/FOSP/blob/master/FOSP_Syllabus.pdf)
 - [Website Development and Management Directive for Government Agency](https://github.com/Khwopa/FOSP/blob/master/Website_Development_and_Management_Directive_for_Government_Agency.pdf)
 - [eGovernment - Master Plan, Nepal](https://github.com/Khwopa/FOSP/blob/master/Nepal_eGovernment_MasterPlan.pdf)
+- [Best Open Source Software of 2019](https://www.techradar.com/best/best-open-source-software)
 - FOSP Books
 - [FOSP Question Bank](https://github.com/Khwopa/FOSP/tree/master/FOSP_Questions)
 - First Assessment Result
