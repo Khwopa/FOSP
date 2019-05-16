@@ -43,6 +43,7 @@ FOSP **Projects**
 - [CSS](https://www.w3schools.com/css/css_intro.asp)
 - [JavaScript](https://www.w3schools.com/js/js_intro.asp)
 - [PHP](https://www.tutorialspoint.com/php/php_introduction.htm)
+- [HEX 2 RGBA Color Calculator](http://hex2rgba.devoth.com/)
 
 **Miscellaneous**
 - [FOSP Syllabus](https://github.com/Khwopa/FOSP/blob/master/FOSP_Syllabus.pdf)
