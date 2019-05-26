@@ -52,6 +52,7 @@ FOSP **Projects**
 - [Best Open Source Software of 2019](https://www.techradar.com/best/best-open-source-software)
 - [FOSP Books](https://github.com/Khwopa/FOSP/issues/7)
 - [FOSP Question Bank](https://github.com/Khwopa/FOSP/tree/master/FOSP_Questions)
+- [History of FOSS](https://en.wikipedia.org/wiki/History_of_free_and_open-source_software)
 - First Assessment Result
 - Final Assessment Result
 - Final Internal Marks of FOSP
