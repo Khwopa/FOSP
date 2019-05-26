@@ -20,8 +20,8 @@ FOSP **Labsheets**
 - [Cover Page of Lab Report](https://github.com/Khwopa/FOSP/blob/master/FOSP_Labsheets/01_Cover_Page_of_Lab_Report.pdf)
 - [Labsheet#1](https://github.com/Khwopa/FOSP/blob/master/FOSP_Labsheets/Labsheet_1.pdf)
 - [Labsheet#2](https://github.com/Khwopa/FOSP/blob/master/FOSP_Labsheets/Labsheet_2.pdf)
-- Labsheet#3
-- Labsheet#4
+- [Labsheet#3](https://github.com/Khwopa/FOSP/blob/master/FOSP_Labsheets/Labsheet_3.pdf)
+- [Labsheet#4](https://github.com/Khwopa/FOSP/blob/master/FOSP_Labsheets/Labsheet_4.pdf)
 - Labsheet#5
 - Labsheet#6
 - Labsheet#7
@@ -43,6 +43,7 @@ FOSP **Projects**
 - [CSS](https://www.w3schools.com/css/css_intro.asp)
 - [JavaScript](https://www.w3schools.com/js/js_intro.asp)
 - [PHP](https://www.tutorialspoint.com/php/php_introduction.htm)
+- [History of FOSS](https://en.wikipedia.org/wiki/History_of_free_and_open-source_software)
 - [HEX 2 RGBA Color Calculator](http://hex2rgba.devoth.com/)
 
 **Miscellaneous**
@@ -52,7 +53,6 @@ FOSP **Projects**
 - [Best Open Source Software of 2019](https://www.techradar.com/best/best-open-source-software)
 - [FOSP Books](https://github.com/Khwopa/FOSP/issues/7)
 - [FOSP Question Bank](https://github.com/Khwopa/FOSP/tree/master/FOSP_Questions)
-- [History of FOSS](https://en.wikipedia.org/wiki/History_of_free_and_open-source_software)
 - First Assessment Result
 - Final Assessment Result
 - Final Internal Marks of FOSP
