@@ -55,6 +55,7 @@ FOSP **Projects**
 - [FOSP Books](https://github.com/Khwopa/FOSP/issues/7)
 - [FOSP Question Bank](https://github.com/Khwopa/FOSP/tree/master/FOSP_Questions)
 - [Open Source Software Licenses](https://www.youtube.com/watch?v=HLAhwTE6RiU)
+- [Introduction To Open Source Licenses](https://www.slideshare.net/leypascua/introduction-to-open-source-licenses)
 - First Assessment Result
 - Final Assessment Result
 - Final Internal Marks of FOSP
