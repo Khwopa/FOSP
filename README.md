@@ -56,6 +56,7 @@ FOSP **Projects**
 - [FOSP Question Bank](https://github.com/Khwopa/FOSP/tree/master/FOSP_Questions)
 - [Open Source Software Licenses](https://www.youtube.com/watch?v=HLAhwTE6RiU)
 - [Introduction To Open Source Licenses](https://www.slideshare.net/leypascua/introduction-to-open-source-licenses)
+- [Open Source License Selection in Relation to Business Models](https://timreview.ca/article/416)
 - First Assessment Result
 - Final Assessment Result
 - Final Internal Marks of FOSP
