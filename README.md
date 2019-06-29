@@ -22,8 +22,8 @@ FOSP **Labsheets**
 - [Labsheet#2](https://github.com/Khwopa/FOSP/blob/master/FOSP_Labsheets/Labsheet_2.pdf)
 - [Labsheet#3](https://github.com/Khwopa/FOSP/blob/master/FOSP_Labsheets/Labsheet_3.pdf)
 - [Labsheet#4](https://github.com/Khwopa/FOSP/blob/master/FOSP_Labsheets/Labsheet_4.pdf)
-- Labsheet#5
-- Labsheet#6
+- [Labsheet#5](https://github.com/Khwopa/FOSP/blob/master/FOSP_Labsheets/Labsheet_5.pdf)
+- [Labsheet#6](https://github.com/Khwopa/FOSP/blob/master/FOSP_Labsheets/Labsheet_6.pdf)
 - Labsheet#7
 - Labsheet#8
 - Labsheet#9
