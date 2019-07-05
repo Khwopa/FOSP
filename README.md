@@ -44,6 +44,7 @@ FOSP **Projects**
 - [JavaScript](https://www.w3schools.com/js/js_intro.asp)
 - [PHP](https://www.tutorialspoint.com/php/php_introduction.htm)
 - [SQL](https://www.w3schools.com/sql/)
+- [MySQL](https://www.w3schools.com/php/php_mysql_intro.asp)
 - [History of FOSS](https://en.wikipedia.org/wiki/History_of_free_and_open-source_software)
 - [OSI FAQs](https://opensource.org/faq)
 - [HEX 2 RGBA Color Calculator](http://hex2rgba.devoth.com/)
