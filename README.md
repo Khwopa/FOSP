@@ -10,7 +10,7 @@ FOSP **Lecturer Slides**
 
 FOSP **Assignments**
 - [Assignment#1](https://github.com/Khwopa/FOSP/blob/master/FOSP_Assignments/Assignment_1.pdf)
-- Assignment#2
+- [Assignment#2](https://github.com/Khwopa/FOSP/blob/master/FOSP_Assignments/Assignment_2.pdf)
 - Assignment#3
 - Assignment#4
 - Assignment#5
@@ -24,7 +24,7 @@ FOSP **Labsheets**
 - [Labsheet#4](https://github.com/Khwopa/FOSP/blob/master/FOSP_Labsheets/Labsheet_4.pdf)
 - [Labsheet#5](https://github.com/Khwopa/FOSP/blob/master/FOSP_Labsheets/Labsheet_5.pdf)
 - [Labsheet#6](https://github.com/Khwopa/FOSP/blob/master/FOSP_Labsheets/Labsheet_6.pdf)
-- Labsheet#7
+- [Labsheet#7](https://github.com/Khwopa/FOSP/blob/master/FOSP_Labsheets/Labsheet_7.pdf)
 - Labsheet#8
 - Labsheet#9
 - Labsheet#10
