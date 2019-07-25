@@ -48,6 +48,7 @@ FOSP **Projects**
 - [PHP/MySQL](https://www.w3schools.com/php/php_mysql_intro.asp)
 - [PHP CRUD](https://codingcyber.org/simple-crud-application-php-mysql-5855/)
 - [PHP Session & Cookies](https://www.guru99.com/cookies-and-sessions.html)
+- [Adding CKEditor to webpages in PHP #Code](https://antonetteshibani.com/code/adding-ckeditor-to-webpages/)
 - [History of FOSS](https://en.wikipedia.org/wiki/History_of_free_and_open-source_software)
 - [OSI FAQs](https://opensource.org/faq)
 - [HEX 2 RGBA Color Calculator](http://hex2rgba.devoth.com/)
